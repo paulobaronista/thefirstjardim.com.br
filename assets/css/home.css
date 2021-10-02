@@ -1,0 +1,19 @@
+.video {
+  background-color: #000000;
+  padding-top: 80px;
+  padding-bottom: 20px;
+  overflow: hidden;
+}
+
+/* Extra Small */
+@media (max-width: 767px) {
+  .video {
+    padding-top: 65px;
+    padding-bottom: 10px;
+  }
+}
+
+/* Small */
+/* Medium */
+/* Large */
+/*# sourceMappingURL=home.css.map */
